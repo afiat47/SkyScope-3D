@@ -55,15 +55,6 @@ A real-time 3D radio telescope orientation visualization tool with live UDP tele
   Result:
   The telescope's azimuth & altitude will update Stellarium's sky view in real-time.
 
-### 📁 Project Structure
-
-  skyscope-3d/
-  ├── skyscope.py          # Main application script
-  ├── README.md            # Project documentation
-  └── screenshots/         # Folder for screenshots
-      ├── main_view.png
-      └── compass_view.png
-
 ### 🧠 How It Works
   PyQtGraph renders the 3D OpenGL scene.
   
