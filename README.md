@@ -20,12 +20,12 @@ A real-time 3D radio telescope orientation visualization tool with live UDP tele
 
 ### 1. Clone the Repository
 
-  bash
-  git clone https://github.com/your-username/skyscope-3d.git
-  cd skyscope-3d
+    bash
+    git clone https://github.com/your-username/skyscope-3d.git
+    cd skyscope-3d
 
 ## 2. Install Dependencies
-  pip install pyqt5 pyqtgraph scipy numpy requests
+    pip install pyqt5 pyqtgraph scipy numpy requests
 
 ### 3. Launch the App
  python skyscope.py
