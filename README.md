@@ -28,10 +28,10 @@ A real-time 3D radio telescope orientation visualization tool with live UDP tele
     pip install pyqt5 pyqtgraph scipy numpy requests
 
 ### 3. Launch the App
- python skyscope.py
+     python skyscope.py
 
 ### 📡 UDP Input Format
-   The program listens on UDP port 5005 for messages formatted as:
+  The program listens on UDP port 5005 for messages formatted as:
   <yaw>,<pitch>,<roll>
   All angles in degrees.
   Example:
